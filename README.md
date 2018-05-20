@@ -1,7 +1,7 @@
 influxDB testbed
 
 To start the service run:
-$ service influxdb start
+$ service influxdb start ($ ./influxdbStartServer.sh)
 
 or:
 $ influxd
