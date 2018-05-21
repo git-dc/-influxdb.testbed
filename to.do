@@ -1,3 +1,4 @@
+
 [x] set up an influxdb server and create a database (1)
 [x] write data to the influx db with curl (2)
 [x] set up a grafana server (1)
@@ -18,3 +19,4 @@ ____________________________________________________________________
 2. in influxdb.testbed repo: cpuValToInfluxDB.sh
 3. after (1), localhost:3000, see dashboard
 4. in vaponic.collector repo: mosquitto.run.sh and pow.vap.listen.sh; some data is collected on lubuntuN7 in dir data/
+
